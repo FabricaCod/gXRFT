@@ -1,0 +1,21 @@
+{
+    "default": "external",
+
+    "external": "http://191.232.239.4/apidobot.php?lista={cc}",
+    "getnet": {
+        "client_id": "",
+        "client_secret": "",
+        "seller_id": ""
+    },
+    "cielo": {
+        "cieloMerchantId": "",
+        "cieloMerchantKey": ""
+    },
+    "pagarme": {
+        "api_key": ""
+    },
+    "erede": {
+        "pv": "",
+        "token": ""
+    }
+}
